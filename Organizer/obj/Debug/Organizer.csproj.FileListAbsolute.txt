@@ -1,0 +1,6 @@
+D:\other\dummies\csharp\Organizer\Organizer\bin\Debug\Organizer.exe.config
+D:\other\dummies\csharp\Organizer\Organizer\bin\Debug\Organizer.exe
+D:\other\dummies\csharp\Organizer\Organizer\bin\Debug\Organizer.pdb
+D:\other\dummies\csharp\Organizer\Organizer\obj\Debug\Organizer.exe
+D:\other\dummies\csharp\Organizer\Organizer\obj\Debug\Organizer.pdb
+D:\other\dummies\csharp\Organizer\Organizer\obj\Debug\Organizer.csprojResolveAssemblyReference.cache

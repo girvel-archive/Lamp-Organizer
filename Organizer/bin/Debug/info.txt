@@ -1,0 +1,18 @@
+﻿## Efficiency:
+
+#n (Not defined) - you did not define its efficiency
+#c (Canceled)    - task was canceled
+#0 (Null)        - you did not do anything
+#1 (Minimal)     - efficiency was minimal
+#2 (Low)         - efficiency was very low
+#3 (Medium)      - efficiency was worse than you need
+#4 (Normal)      - this efficiency was enough good for you
+#5 (Maximal)     - efficiency was maximal
+
+
+## Some features:
+
+Program replaces all '*' in the file path for current date,
+                 all '~'                  for "saves" and
+                 all '?'                  for "saves/<current date>"
+                 all '`'                  for last file path
